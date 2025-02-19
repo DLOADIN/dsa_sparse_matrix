@@ -102,9 +102,6 @@ print(result)
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, create a branch, and submit a pull request.
 
-## License
-This project is open-source and available under the MIT License.
-
 ---
 For more details, visit the repository: [GitHub - DLOADIN/DSA_MATRIX_ASSIGNMENT](https://github.com/DLOADIN/DSA_MATRIX_ASSIGNMENT/)
 
