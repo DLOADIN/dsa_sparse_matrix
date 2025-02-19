@@ -230,16 +230,16 @@ def main():
     print("2. Subtraction")
     print("3. Multiplication")
     try:
-        operation = int(input("Enter the operation number: "))
+        mainoperation = int(input("Enter the operation number: "))
     except ValueError:
         print("Invalid input. Please enter a number.")
         return
     
-    if operation == 1:
+    if mainoperation == 1:
         perform_addition(input_dir)
-    elif operation == 2:
+    elif mainoperation == 2:
         perform_subtraction(input_dir)
-    elif operation == 3:
+    elif mainoperation == 3:
         perform_multiplication(input_dir)
     else:
         print("Invalid operation. Please choose 1, 2, or 3.")
